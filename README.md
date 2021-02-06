@@ -1,1 +1,1 @@
-# Model-View-Controller-Tech-Blog-Submit-Assignment
+# Model-View-Controller-Tech-Blog
