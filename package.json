@@ -1,0 +1,27 @@
+{
+  "name": "model-view-controller-tech-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "connect-session-sequelize": "^7.1.0",
+    "express-session": "^1.17.1",
+    "handlebars": "^4.7.6",
+    "sequelize": "^6.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdavonta/Model-View-Controller-Tech-Blog.git"
+  },
+  "author": "Da'Vonta Williamson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wdavonta/Model-View-Controller-Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/wdavonta/Model-View-Controller-Tech-Blog#readme"
+}
