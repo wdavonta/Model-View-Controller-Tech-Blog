@@ -2,11 +2,6 @@
 
 
 
-
-
-
-
-
 # Installation
 [Github] (https://github.com/wdavonta/Model-View-Controller-Tech-Blog)
 "MVC Tech Blog"
